@@ -1,0 +1,19 @@
+  {
+    "name": "더 깨끗한 네이버",
+    "version": "1.0",
+    "description": "네이버의 급상승검색어/검색창의사이드바/뉴스댓글을 가려줍니다 (옵션없음)",
+    "browser_action": {
+      "default_icon": "icon.png"
+    },
+    "content_scripts": [
+      {
+          "matches": ["https://www.naver.com/*", "https://search.naver.com/*", "https://news.naver.com/*"],
+          "run_at": "document_start",
+          "js": ["/contentScript.js"]
+      }
+  ],
+    "manifest_version": 2,
+    "permissions": [
+      "storage"
+    ]
+  }
