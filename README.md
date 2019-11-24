@@ -1,4 +1,4 @@
-<h1>Cleaner Naver</h>
+<h1>Cleaner Naver</h1>
 
 네이버의 다음 요소를 가려주는 Chrome Extension 입니다.  어떤 요소를 가릴지에 대한 옵션은 추후 추가할 예정입니다.
 
