@@ -5,7 +5,7 @@
 
 
 
-[Chrome Extension Market Page](https://chrome.google.com/webstore/detail/anjkdhddjaopfecmcehnoepemmokdfkl/publish-review?authuser=2) (현재는 승인 중) 에서 다운 받거나 크롬에서 chrome://extensions/ 페이지에서 load unpacked 을 클릭하여 업로드 하시면 됩니다.
+[Chrome Extension Market Page](https://chrome.google.com/webstore/detail/anjkdhddjaopfecmcehnoepemmokdfkl/publish-review?authuser=2) (현재는 승인 중) 에서 다운 받거나 크롬의 chrome://extensions/ 페이지에서 load unpacked 을 클릭하여 업로드 하시면 됩니다.
 
 • 메인화면의 급상승 검색어
 
